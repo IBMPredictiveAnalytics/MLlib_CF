@@ -34,7 +34,7 @@ License
 Contributors
 ----
  -  Nial McCarrol
-  - Armand Ruiz ([armand_ruiz](https://twitter.com/armand_ruiz))
+ - Armand Ruiz ([armand_ruiz](https://twitter.com/armand_ruiz))
 
 
 [1]: http://www.apache.org/licenses/LICENSE-2.0.html
