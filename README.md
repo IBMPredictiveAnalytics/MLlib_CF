@@ -50,11 +50,5 @@ Contributors
 [25]:http://spark.apache.org/docs/latest/mllib-guide.html
 [26]:http://spark.apache.org/docs/latest/mllib-collaborative-filtering.html
 
-=======
-# MLlib-Pagerank
-Estimating the relative importance of individuals within a social network using Spark MLlib
->>>>>>> origin/master
-=======
 # MLlib-CF
 Spark MLLib Collaborative filtering commonly used for recommender systems.
->>>>>>> e73a67ce143e5de689f470b8dd188f06b7a10dd3
