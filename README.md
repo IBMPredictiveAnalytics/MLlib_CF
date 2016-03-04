@@ -32,7 +32,7 @@ License
 
 Contributors
 ----
- -  Nial McCarrol
+ -  Niall McCarroll
  - Armand Ruiz ([armand_ruiz](https://twitter.com/armand_ruiz))
 
 
